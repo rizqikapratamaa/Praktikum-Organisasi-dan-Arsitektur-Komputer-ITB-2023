@@ -1,0 +1,25 @@
+Standard
+1. Orkom3{01s_int3gEr_oveRwr1te_f3418e1527fe368f}
+2. Orkom3{02s_iNte9er_ov3rwriTe_p1us_eXac7_vAlue_476706b8d71cb554}
+3. Orkom3{03s_re7Urn_7o_fuNcti0n_c20b2cbe6028bdc1}
+4. Orkom3{04s_r3tuRn_t0_fUnct1on_plu5_pAram_e07a87e7d6394605}
+5. Orkom3{05s_retUrN_tO_tw0_fuNc7ion_p1us_paRam_dc2dcb8b404a33b4}
+
+Deluxe
+1. Orkom3{01d_inf0rMat1ka_ber7iWa_k5aTr1a_tid4k_p3rnAh_mengEn4l_k3luh_keS4h_1c5133e886d27c05}
+2. Orkom3{02d_sUrf_th3_w3b_5urF_the_weB_shu7_up_br0cK_we_d0nT_haVe_t1me_1b332826b0970c22}
+3. Orkom3{03d_s1git_r4nGGa_daN_clearrusDi_beLi_k3bab_di_t0ko_fArh4n_c7b2b88783b85caa}
+4. Orkom3{04d_im_g3tTing_on_tHe_bu5_to_th3_o7heR_w0rLd_see_ya_c790ee6fac2c1bfe}
+5. Orkom3{05d_saUn4_teRtawa_kec1l_meLih4t_k3adaAn_diRimu_s3karang_e195ea302f988d0d}
+
+Token:
+NIM: 13522126;63b57851        // deluxe 1
+NIM: 13522126;b53a2b13        // deluxe 2
+NIM: 13522126;a33c3be4        // deluxe 3
+NIM: 13522126;a33f3866        // deluxe 4
+NIM: 13522126;e55a89ee        // deluxe 5
+NIM: 13522126;4facd270        // deluxe 6
+NIM: 13522126;13786586        // deluxe 7
+NIM: 13522126;a81bdc41        // deluxe 8
+NIM: 13522126;ee9ad95d        // deluxe 9
+NIM: 13522126;e4c41871        // deluxe 10
